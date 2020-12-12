@@ -10,3 +10,7 @@ The Museum of Hoaxes was established in 1997. It explores deception, mischief, a
 
 
 ## Problem Solving Method
+
+## awesome
+
+[sindresorhus-awesome](https://github.com/sindresorhus/awesome)
